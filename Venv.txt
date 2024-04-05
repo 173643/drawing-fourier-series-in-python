@@ -1,0 +1,6 @@
+keyboard==0.13.5
+numpy==1.24.3
+pygame==2.4.0
+scipy==1.10.1
+svgpathtools==1.6.1
+svgwrite==1.4.3
